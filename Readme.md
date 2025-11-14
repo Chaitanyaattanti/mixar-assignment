@@ -37,13 +37,7 @@ pip install numpy trimesh matplotlib pyglet
 
 ### 3. Open the notebooks
 
-```bash
 jupyter notebook
-```
-
-Run **task-1**, then **task-2**, then **task-3** in order.
-
-```
-
----
+# Run task-1, then task-2, then task-3 in order.
+# Click Run All for each notebook.
 
