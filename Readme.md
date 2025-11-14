@@ -1,15 +1,16 @@
 
+---
 
 # **README.md**
 
 ## **Mesh Normalization, Quantization, and Reconstruction**
 
-This Assignment  contains three Jupyter notebooks that implement the full preprocessing pipeline for 3D mesh data.
+This assignment contains three Jupyter notebooks that implement the full preprocessing pipeline for 3D mesh data.  
 The tasks include loading the mesh, performing normalization, applying quantization, reconstructing the mesh, and computing error metrics.
 
 ---
 
-## ** Files**
+## **Files**
 
 task-1.ipynb   → Mesh loading and inspection  
 task-2.ipynb   → Normalization and quantization  
@@ -26,12 +27,12 @@ outputs/       → Generated .ply and .png files
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-```
+````
 
 ### 2. Install required packages
 
 ```bash
-pip install numpy trimesh matplotlib pillow open3d  pyglet
+pip install numpy trimesh matplotlib pyglet
 ```
 
 ### 3. Open the notebooks
@@ -42,4 +43,7 @@ jupyter notebook
 
 Run **task-1**, then **task-2**, then **task-3** in order.
 
+```
+
+---
 
