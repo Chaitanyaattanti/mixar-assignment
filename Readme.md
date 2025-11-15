@@ -13,7 +13,7 @@ A separate notebook is provided for the **Bonus Task (Seam Tokenization Prototyp
 - **task-1.ipynb** → Mesh loading and inspection  
 - **task-2.ipynb** → Normalization and quantization  
 - **task-3.ipynb** → Reconstruction and error analysis  
-- **bonus-task.ipynb** → Seam Tokenization Prototype (Optional Task)  
+- **bonus-task.ipynb** → Seam Tokenization Prototype 
 - **8samples/** → Folder containing `.obj` mesh files  
 - **outputs/** → Generated `.ply` and `.png` files  
 
@@ -44,7 +44,7 @@ jupyter notebook
 
 ---
 
-## **▶ Running the Bonus Task 
+### 4. Running the Bonus Task 
 
  **Option 1: Seam Tokenization Prototype**, run the bonus notebook:
 
@@ -56,6 +56,3 @@ jupyter notebook bonus-task.ipynb
 No additional dependencies are required.
 
 ---
-
-```
-```
