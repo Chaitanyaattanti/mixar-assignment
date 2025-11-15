@@ -46,7 +46,7 @@ jupyter notebook
 
 ### 4. Running the Bonus Task 
 
- **Option 1: Seam Tokenization Prototype**, run the bonus notebook:
+ **Option 1: Seam Tokenization Prototype**, open the bonus notebook:
 
 ```bash
 jupyter notebook bonus-task.ipynb
